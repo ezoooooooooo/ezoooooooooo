@@ -21,7 +21,6 @@ I'm a passionate developer exploring the world of **full-stack web development**
 
 ## 🌍 Connect with Me
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:ezooahmed39@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/ezoooooooooo)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezoo-ahmed-595087224)  
 
 ---
